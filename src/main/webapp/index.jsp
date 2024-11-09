@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>DevOps world.com</title>
+    <title>oops java</title>
 
 
     <!-- Custom styles for this template -->
